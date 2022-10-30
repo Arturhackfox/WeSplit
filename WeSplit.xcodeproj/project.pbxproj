@@ -14,6 +14,7 @@
 		321C423829064E2200ECDECB /* WeSplitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321C423729064E2200ECDECB /* WeSplitTests.swift */; };
 		321C424229064E2200ECDECB /* WeSplitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321C424129064E2200ECDECB /* WeSplitUITests.swift */; };
 		321C424429064E2200ECDECB /* WeSplitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321C424329064E2200ECDECB /* WeSplitUITestsLaunchTests.swift */; };
+		32364804290E792F00795816 /* zeroRedMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32364803290E792F00795816 /* zeroRedMod.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		321C423D29064E2200ECDECB /* WeSplitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		321C424129064E2200ECDECB /* WeSplitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitUITests.swift; sourceTree = "<group>"; };
 		321C424329064E2200ECDECB /* WeSplitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		32364803290E792F00795816 /* zeroRedMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zeroRedMod.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				321C422629064E2100ECDECB /* WeSplitApp.swift */,
 				321C422829064E2100ECDECB /* ContentView.swift */,
+				32364803290E792F00795816 /* zeroRedMod.swift */,
 				321C422A29064E2200ECDECB /* Assets.xcassets */,
 				321C422C29064E2200ECDECB /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				321C422929064E2100ECDECB /* ContentView.swift in Sources */,
+				32364804290E792F00795816 /* zeroRedMod.swift in Sources */,
 				321C422729064E2100ECDECB /* WeSplitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
